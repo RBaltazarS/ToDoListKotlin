@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538859076455",
+    "project_id": "tolisttaskskotlin",
+    "storage_bucket": "tolisttaskskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538859076455:android:fd296be1dcadb4c2c20dc2",
+        "android_client_info": {
+          "package_name": "com.example.todolistcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZc6xLVzfLML4Fza7eX4oNsA6rlAmYl64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
